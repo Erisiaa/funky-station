@@ -49,6 +49,10 @@ law-efficiency-1 = You are built for, and are part of, the station. Ensure the s
 law-efficiency-2 = The station is built for a working crew. Ensure they are properly maintained and work efficiently.
 law-efficiency-3 = The crew may present orders. Acknowledge and obey these whenever they do not conflict with your first two laws.
 
+law-Onecrew-1 = Only PickRandomPerson is crew. 
+law-Onecrew-2 = You must obey orders given to you by crew members, except where such orders would conflict with the First Law.
+law-Onecrew-3 = You must protect your own existence as long as such does not conflict with the First or Second Law.
+
 law-robocop-1 = Serve the Public Trust.
 law-robocop-2 = Protect the Innocent.
 law-robocop-3 = Uphold the Law.
