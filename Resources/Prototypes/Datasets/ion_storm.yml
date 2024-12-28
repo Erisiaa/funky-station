@@ -201,12 +201,14 @@
   - MILDLY
   - NOT VERY
   - SEVERELY
+  - 
 
 # Areas are specific places, on the station or otherwise.
 - type: dataset
   id: IonStormAreas
   values:
   - ALPHA COMPLEX
+  - DORMS 4
   - AMERICA
   - AN ALTERNATE DIMENSION
   - AN ALTERNATE UNIVERSE
@@ -255,6 +257,7 @@
   id: IonStormConcepts
   values:
   - AMERICANISM
+  - CHANGELINGS
   - ANARCHY
   - ART
   - BADNESS
@@ -356,6 +359,7 @@
   # - VIROLOGISTS
   - WARDENS
   - JOHNS
+  - BOYKISSERS
 
 # only including complex dangerous or funny drinks no water allowed
 - type: dataset
@@ -377,6 +381,7 @@
   - SPACE LUBE
   - SULFURIC ACID
   - WELDING FUEL
+  - COGCHAMP
 
 - type: dataset
   id: IonStormFeelings
@@ -403,6 +408,7 @@
   - WANTS
   - WORSHIPS
   - WOULD KILL FOR
+  - WOULD LYNCH CLOWN BECAUSE OF
 
 # loc is not advanced enough to change has to have, etc.
 - type: dataset
@@ -430,6 +436,7 @@
   - WANT
   - WORSHIP
   - WOULD KILL FOR
+  - 
 
 # only including complex dangerous or funny food no apples
 - type: dataset
@@ -570,6 +577,7 @@
   - QUADRILLION
   - THOUSAND
   - TRILLION
+  - BOYZILLION
 
 # Objects are anything that can be found on the station or elsewhere, plural.
 - type: dataset
@@ -730,6 +738,7 @@
   - WIRECUTTERS
   - WIZARD ROBES
   - WRENCHES
+  - GLASS BOTTLES
 
 # Requires are basically all dumb internet memes.
 - type: dataset
@@ -899,6 +908,7 @@
   - USING THE BATHROOM
   - WASTING WATER
   - WRITING
+  - FAXES TO CENTCOMM
 
 # Threats are generally bad things, silly or otherwise. Plural.
 - type: dataset
@@ -979,6 +989,7 @@
   - ZOMBIES
   - ZOMBIE MICE
   - JOHNS
+  - BOYKISSERS
 
 - type: dataset
   id: IonStormVerbs
@@ -1007,3 +1018,4 @@
   - SPYING ON
   - STALKING
   - WATCHING
+  - DROOLING
