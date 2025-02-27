@@ -12,3 +12,6 @@
     back:
     - CodexCicatrix
     - OrganHumanHeart
+  
+- !type:OverallPlaytimeRequirement
+  time: 72000 # 20 hours
